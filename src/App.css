@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+/*아래 폰트*/
+@font-face {
+  font-family: "suite_semiBold";
+  src: url("./fonts/SUITE-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "suite_extraBold";
+  src: url("./fonts/SUITE-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "cafe";
+  src: url("./fonts/Cafe24Ssurround-v2.0.ttf");
+}
+
+
